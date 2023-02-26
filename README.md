@@ -1,4 +1,4 @@
-<h1>Checkers</h1><h1>Checkers</h1>
+<h1>Checkers</h1>
 This project introduces the board game Checkers. The game contains a board consisting of red and black fields. The pieces can move only on the black fields. When a player loses all his pieces, the game ends and the player whose pieces are left on the board wins. When the game starts, the normal pieces appear in the first three rows on both sides, on the black fields. Each player owns 20 pieces of his color.
 There are two types of pieces in Checkers, the regular piece (also called a Dog, Stone, Jack) and the Queen (sometimes called a King). The pawn is able to move one shelf forward on the diagonal - the so-called move. In checkers, the first player to move a piece is always the red player. Next, the black player takes his turn. 
 The only exception is the jump. A player jumps with a piece if he is on the move, there is an enemy piece on the diagonal in front of or behind the piece, and there is a free shelf behind the enemy piece, also diagonal, on which the jumping piece subsequently jumps. After the jump, the jumped piece is removed from the board and cannot be played with further.
