@@ -9,4 +9,4 @@ In my checkers, Force Jump is implemented. This means that if it is possible to 
 If two pieces can jump at the same time and the player does not jump with a piece, he loses both pieces. If he jumps with at least one of them, he does not lose either of them.
 
 
-![Screenshot](docs/images/screenshot.jpg)
+![Screenshot](docs/images/Screenshot.jpg)
